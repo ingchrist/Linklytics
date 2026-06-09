@@ -19,5 +19,5 @@ Welcome to your one-stop-shop for mastering Java and Spring Boot! This repositor
 
 Thank you for respecting these guidelines and helping us maintain the integrity of our course materials.
 
-- **Website:** [www.embarkx.com](http://www.embarkx.com)
+- 
 
